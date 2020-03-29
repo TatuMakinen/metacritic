@@ -5,8 +5,6 @@ Project to:
 - test deploying a static web page on github pages
 - practice simple web scraping and page building
 
-metacritic
-
 ## Web scraping
 
 Simple [python script](https://github.com/TatuMakinen/metacritic/blob/master/metacritic.py) that goes through all the game pages and scrapes data from HTML to a [JSON file](https://github.com/TatuMakinen/metacritic/blob/master/metacritic.json).
