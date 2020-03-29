@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/metacritic/static/css/main.5f361e03.chunk.css",
-    "main.js": "/metacritic/static/js/main.552b2114.chunk.js",
-    "main.js.map": "/metacritic/static/js/main.552b2114.chunk.js.map",
-    "runtime-main.js": "/metacritic/static/js/runtime-main.744481b8.js",
-    "runtime-main.js.map": "/metacritic/static/js/runtime-main.744481b8.js.map",
-    "static/js/2.0b6e13a4.chunk.js": "/metacritic/static/js/2.0b6e13a4.chunk.js",
-    "static/js/2.0b6e13a4.chunk.js.map": "/metacritic/static/js/2.0b6e13a4.chunk.js.map",
+    "main.js": "/metacritic/static/js/main.bfbaed67.chunk.js",
+    "main.js.map": "/metacritic/static/js/main.bfbaed67.chunk.js.map",
+    "runtime-main.js": "/metacritic/static/js/runtime-main.3965f914.js",
+    "runtime-main.js.map": "/metacritic/static/js/runtime-main.3965f914.js.map",
+    "static/js/2.ed356cdc.chunk.js": "/metacritic/static/js/2.ed356cdc.chunk.js",
+    "static/js/2.ed356cdc.chunk.js.map": "/metacritic/static/js/2.ed356cdc.chunk.js.map",
     "index.html": "/metacritic/index.html",
-    "precache-manifest.86834742738dad6fd5597a62556e9c3a.js": "/metacritic/precache-manifest.86834742738dad6fd5597a62556e9c3a.js",
+    "precache-manifest.c063f3eba13984493f51d872f6e8db69.js": "/metacritic/precache-manifest.c063f3eba13984493f51d872f6e8db69.js",
     "service-worker.js": "/metacritic/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/metacritic/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0b6e13a4.chunk.js.LICENSE.txt": "/metacritic/static/js/2.0b6e13a4.chunk.js.LICENSE.txt"
+    "static/js/2.ed356cdc.chunk.js.LICENSE.txt": "/metacritic/static/js/2.ed356cdc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.744481b8.js",
-    "static/js/2.0b6e13a4.chunk.js",
+    "static/js/runtime-main.3965f914.js",
+    "static/js/2.ed356cdc.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.552b2114.chunk.js"
+    "static/js/main.bfbaed67.chunk.js"
   ]
 }
